@@ -1,0 +1,1 @@
+export const API_END_POINT = "https://dpdg98cald.execute-api.us-east-1.amazonaws.com/dev/";
